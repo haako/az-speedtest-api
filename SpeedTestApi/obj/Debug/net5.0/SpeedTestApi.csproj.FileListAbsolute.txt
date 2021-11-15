@@ -26,3 +26,9 @@
 /Users/haako/projects/az-speedtest-api/SpeedTestApi/obj/Debug/net5.0/ref/SpeedTestApi.dll
 /Users/haako/projects/az-speedtest-api/SpeedTestApi/obj/Debug/net5.0/SpeedTestApi.pdb
 /Users/haako/projects/az-speedtest-api/SpeedTestApi/obj/Debug/net5.0/SpeedTestApi.genruntimeconfig.cache
+/Users/haako/projects/az-speedtest-api/SpeedTestApi/bin/Debug/net5.0/Azure.Core.dll
+/Users/haako/projects/az-speedtest-api/SpeedTestApi/bin/Debug/net5.0/Azure.Core.Amqp.dll
+/Users/haako/projects/az-speedtest-api/SpeedTestApi/bin/Debug/net5.0/Azure.Messaging.EventHubs.dll
+/Users/haako/projects/az-speedtest-api/SpeedTestApi/bin/Debug/net5.0/Microsoft.Azure.Amqp.dll
+/Users/haako/projects/az-speedtest-api/SpeedTestApi/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/haako/projects/az-speedtest-api/SpeedTestApi/bin/Debug/net5.0/System.Memory.Data.dll
